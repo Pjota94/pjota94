@@ -1,4 +1,4 @@
-<h2 align="left">Opa, meu nome é Paulo, mas pode me chamar de Júnior ;].<br><br>Um pouco sobre mim: <br><br>Amo Tecnologia.<br>Me apaixonei pela programação.<br>Gosto de Esportes.<br>Prefiro Video game e Series do que Noite e Balada.<br>Nordestino com Orgulho.</h2>
+<h2 align="left">Opa, meu nome é Paulo, mas pode me chamar de Júnior ;].<br><br>Um pouco sobre mim: <br><br>👨‍💻Amo Tecnologia.<br>🤖Me apaixonei pela programação.<br>⚽ Gosto de Esportes.<br>🎮Prefiro Video game e Series do que Noite e Balada.<br>🏞️Nordestino com Orgulho.</h2>
 
 ###
 
