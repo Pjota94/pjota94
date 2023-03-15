@@ -40,17 +40,5 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-
-  ![Snake animation](https://github.com/pjota94/pjota94/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pjota94/count.svg?"  />
-</div>
 
 ###
